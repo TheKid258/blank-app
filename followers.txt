@@ -1,0 +1,3 @@
+# Um usuário do Instagram por linha (sem @). Linhas com # são ignoradas.
+exemplo_usuario1
+exemplo_usuario2
